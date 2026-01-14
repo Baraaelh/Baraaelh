@@ -52,5 +52,5 @@ using a single codebase. I bridge the gap between aesthetic design and functiona
 
 ## 📧 Contact Me
 - 📧 Email: **braalhaddad701@gmail.com**
-- 💼 LinkedIn: [Your Profile Link]
+- 💼 LinkedIn: (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - 📞 WhatsApp: **+972 597 347 588**
