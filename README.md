@@ -22,6 +22,7 @@ using a single codebase. I bridge the gap between aesthetic design and functiona
 ### ⚙️ State Management & Backend
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
 ---
