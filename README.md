@@ -55,51 +55,27 @@ I'm a **Mobile App Developer** specialized in **Flutter**, building high-quality
 ---
 ---
 
-## 💪 Skill Proficiency
-
----
+ 
 
 ## 💪 Skill Proficiency
 
-### 📱 Flutter & Mobile Development
-Flutter  
-<progress value="90" max="100"></progress> **90%**
+### 📱 Flutter & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-90%25-000000?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-90%25-000000?style=for-the-badge&logo=dart&logoColor=white)
 
-Dart  
-<progress value="90" max="100"></progress> **90%**
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-80%25-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-80%25-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
----
+### 🎨 UI / UX
+![Figma](https://img.shields.io/badge/Figma-77%25-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🌐 Frontend Development
-HTML  
-<progress value="80" max="100"></progress> **90%**
+### 🗄 State & Database
+![GetX](https://img.shields.io/badge/GetX-78%25-000000?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-75%25-000000?style=for-the-badge&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-70%25-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 
-CSS  
-<progress value="80" max="100"></progress> **80%**
-
-JavaScript  
-<progress value="75" max="100"></progress> **78%**
-
----
-
-### 🎨 UI / UX Design
-Figma  
-<progress value="77" max="100"></progress> **87%**
-
-UI/UX Principles  
-<progress value="75" max="100"></progress> **75%**
-
----
-
-### 🗄 State Management & Database
-GetX  
-<progress value="78" max="100"></progress> **88%**
-
-Firebase  
-<progress value="75" max="100"></progress> **85%**
-
-SQLite  
-<progress value="70" max="100"></progress> **79%**
 
 
 ## 📂 Featured Projects
