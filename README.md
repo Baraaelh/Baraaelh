@@ -1,11 +1,20 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/Baraaelh/Baraaelh/blob/main/Gemini_Generated_Image_p5sgjtp5sgjtp5sg.png" 
        alt="Baraa Al-Haddad" 
        style="width:500px; height:300px; object-fit:cover; border-radius:10px;" 
        width="300" 
        height="300"
-        />
+        /> -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=typewriter&color=auto&height=200&section=header&text=Baraa%20Al-Haddad&fontSize=70&animation=fadeIn&fontColor=02569B&desc=Flutter%20Developer%20|%20UI/UX%20Designer&descSize=25&descAlignVertical=75" alt="Header Animation" />
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="https://github.com/Baraaelh"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+    <a href="mailto:braalhaddad701@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  </p>
+</div>
 
  
   <p>
