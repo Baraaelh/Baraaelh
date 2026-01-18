@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://github.com/Baraaelh/Baraaelh/blob/main/Gemini_Generated_Image_pk7y6upk7y6upk7y.png" alt="Header Image" width : 100px />
+<img src="https://github.com/Baraaelh/Baraaelh/blob/main/Gemini_Generated_Image_pk7y6upk7y6upk7y.png" 
+       alt="Baraa Al-Haddad" 
+       style="width:200px; height:200px; object-fit:cover; border-radius:10px;" 
+       width="200" 
+       height="200" />
 
+
+ 
   <p>
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
     <a href="https://github.com/Baraaelh"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
