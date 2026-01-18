@@ -52,6 +52,27 @@ I'm a **Mobile App Developer** specialized in **Flutter**, building high-quality
 </table>
 
 ---
+---
+
+## 💪 Skill Proficiency
+
+### 📱 Flutter & Mobile Development
+Flutter ██████████░░ 90%  
+Dart ██████████░░ 90%
+
+### 🌐 Frontend Development
+HTML █████████░░░ 90%  
+CSS █████████░░░ 80%  
+JavaScript ████████░░░ 75%
+
+### 🎨 UI / UX Design
+Figma ████████░░░ 77%  
+UI/UX Principles ████████░░░ 75%
+
+### 🗄 Backend / Data Handling
+Firebase ████████░░░ 75%  
+SQLite ███████░░░░ 70%  
+GetX (State Management) ████████░░░ 88%
 
 ## 📂 Featured Projects
 <h3>💊 Pharmacy AI E-Commerce App</h3>
