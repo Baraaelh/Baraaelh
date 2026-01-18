@@ -1,21 +1,70 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li><li><a href=https://mokkapps.de/blog/connecting-mysql-database-nuxt-drizzle-orm target="_blank" rel="noreferrer nofollow">Connecting a MySQL Database in Nuxt with Drizzle ORM</a></li><li><a href=https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build target="_blank" rel="noreferrer nofollow">Nuxt Tip: Accessing Pinia Store in Production Build</a></li><li><a href=https://mokkapps.de/blog/vercel-acquires-nuxtlabs target="_blank" rel="noreferrer nofollow">Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/196 target="_blank" rel="noreferrer nofollow">Weekly Vue News #232 - What’s New in Nuxt, Flutter for Vue Devs, and Safer npm Installs</a></li><li><a href=https://weekly-vue.news/issues/v2/195 target="_blank" rel="noreferrer nofollow">Weekly Vue News #231 - Optimizing Vue Performance and Securing Nuxt APIs with Nitro</a></li><li><a href=https://weekly-vue.news/issues/v2/194 target="_blank" rel="noreferrer nofollow">Weekly Vue News #230 - What’s New in Vue 3.6, Nuxt Content, and Dev Performance</a></li><li><a href=https://weekly-vue.news/issues/v2/193 target="_blank" rel="noreferrer nofollow">Weekly Vue News #229 - Bundle Insights, Browsers Scores & Nuxt UI Powerups</a></li><li><a href=https://weekly-vue.news/issues/v2/192 target="_blank" rel="noreferrer nofollow">Weekly Vue News #228 - Async Rendering, TypeScript 7, and the Evolution of Nuxt</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=02569B&height=200&section=header&text=Baraa%20Al-Haddad&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="Header Image" />
+
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="https://github.com/Baraaelh"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+    <a href="mailto:braalhaddad701@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  </p>
+</div>
+
+## 🚀 About Me
+I'm a **Mobile App Developer** specialized in **Flutter**, building high-quality **Android & iOS** applications using a single codebase. I have a strong background in **UI/UX Design (Figma)** and **Front-End Development** (HTML, CSS, JS).
+
+- 🎓 Computer Science student at **Al-Aqsa University**.
+- 💼 Freelance Developer at **Taqat Foundation**.
+- 🛠 Field Trainee at **Code Map Foundation**.
+
+---
+
+## 🛠 Skills & Tools
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Mobile</h3>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Design & Web</h3>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Database & State</h3>
+      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/GetX-%238A2BE2.svg?style=flat-square&logo=getx&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+<h3>💊 Pharmacy AI E-Commerce App</h3>
+<p>An online pharmacy platform with an integrated <b>AI Model</b> for medical consultations and <b>SQFLite</b> for local data handling.</p>
+
+<h3>📝 Corporate Task Manager</h3>
+<p>Professional task management system for companies and individuals with offline support using <b>SQFLite</b>.</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baraaelh&show_icons=true&theme=tokyonight" alt="Baraa's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baraaelh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<div align="center">
+  <p><b>Let's connect!</b></p>
+  <a href="https://wa.me/972597347588" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
