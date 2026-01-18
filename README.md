@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=02569B&height=200&section=header&text=Baraa%20Al-Haddad&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="Header Image" />
+  <img src="https://github.com/Baraaelh/Baraaelh/blob/main/Gemini_Generated_Image_pk7y6upk7y6upk7y.png" alt="Header Image" />
 
   <p>
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
