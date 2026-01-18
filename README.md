@@ -3,7 +3,7 @@
        alt="Baraa Al-Haddad" 
        style="width:200px; height:200px; object-fit:cover; border-radius:10px;" 
        width="200" 
-       height="200" />
+       height="500" />
 
 
  
@@ -15,10 +15,11 @@
 </div>
 
 ## 🚀 About Me
-I'm a **Mobile App Developer** specialized in **Flutter**, building high-quality **Android & iOS** applications using a single codebase. I have a strong background in **UI/UX Design (Figma)** and **Front-End Development** (HTML, CSS, JS).
+I'm a **Mobile App Developer** specialized in **Flutter**, 
+**UI/UX Design (Figma)** and **Front-End Development** (HTML, CSS, JS).
 
 - 🎓 Computer Science student at **Al-Aqsa University**.
-- 💼 Freelance Developer at **Taqat Foundation**.
+- 💼 Freelance Developer 
 - 🛠 Field Trainee at **Code Map Foundation**.
 
 ---
