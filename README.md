@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://github.com/Baraaelh/Baraaelh/blob/main/Gemini_Generated_Image_p5sgjtp5sgjtp5sg.png" 
        alt="Baraa Al-Haddad" 
+       style="width:200px; height:200px; object-fit:cover; border-radius:10px;" 
+       width="200" 
+       height="200"
         />
 
 
