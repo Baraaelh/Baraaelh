@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Baraaelh">
-    <img src="https://img.shields.io/github/followers/username?label=Follow&style=social"/>
+    <img src="https://img.shields.io/github/followers/Baraaelh?label=Follow&style=social"/>
   </a>
   <a href="رابط-بورتفوليو">
     <img src="https://img.shields.io/badge/Portfolio-111?style=flat&logo=google-chrome"/>
