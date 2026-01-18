@@ -6,8 +6,9 @@
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 </p>  -->
+
  <p align="center">
-  <img src="https://i.ibb.co/placeholder/software-dev-gif.gif" width="220"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRneWJhNDNkNzdybGZuZzV3MG5mcTFhbWdweGlueGcwNG1wZzhseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Eh9l5e0QH41sg0bbL/giphy.gif" width="220"/>
 </p>
 
 
