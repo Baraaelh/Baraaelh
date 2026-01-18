@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Baraa Nael Al-Haddad
 ### **Mobile Application Developer specialized in Flutter** 🚀
-
-I am a passionate **Full-Stack Mobile Developer** and **UI/UX Designer**
-focused on building high-quality, scalable applications for **Android & iOS**
-using a single codebase. I bridge the gap between aesthetic design and functional code.
+**Full-Stack Mobile Developer** and **UI/UX Designer**
+**Android & iOS**
 
 ---
 
