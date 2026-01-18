@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baraa Al haddad </h1>
-<h3 align="center">Flutter Developer • Frontend Developer • UI/UX Designer</h3>
+<h3 align="center">Flutter Developer 
+  Frontend Developer • UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
@@ -56,23 +57,50 @@ I'm a **Mobile App Developer** specialized in **Flutter**, building high-quality
 
 ## 💪 Skill Proficiency
 
+---
+
+## 💪 Skill Proficiency
+
 ### 📱 Flutter & Mobile Development
-Flutter ██████████░░ 90%  
-Dart ██████████░░ 90%
+Flutter  
+<progress value="90" max="100"></progress> **90%**
+
+Dart  
+<progress value="90" max="100"></progress> **90%**
+
+---
 
 ### 🌐 Frontend Development
-HTML █████████░░░ 90%  
-CSS █████████░░░ 80%  
-JavaScript ████████░░░ 75%
+HTML  
+<progress value="80" max="100"></progress> **90%**
+
+CSS  
+<progress value="80" max="100"></progress> **80%**
+
+JavaScript  
+<progress value="75" max="100"></progress> **78%**
+
+---
 
 ### 🎨 UI / UX Design
-Figma ████████░░░ 77%  
-UI/UX Principles ████████░░░ 75%
+Figma  
+<progress value="77" max="100"></progress> **87%**
 
-### 🗄 Backend / Data Handling
-Firebase ████████░░░ 75%  
-SQLite ███████░░░░ 70%  
-GetX (State Management) ████████░░░ 88%
+UI/UX Principles  
+<progress value="75" max="100"></progress> **75%**
+
+---
+
+### 🗄 State Management & Database
+GetX  
+<progress value="78" max="100"></progress> **88%**
+
+Firebase  
+<progress value="75" max="100"></progress> **85%**
+
+SQLite  
+<progress value="70" max="100"></progress> **79%**
+
 
 ## 📂 Featured Projects
 <h3>💊 Pharmacy AI E-Commerce App</h3>
