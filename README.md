@@ -7,7 +7,7 @@
         /> -->
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=typewriter&color=auto&height=200&section=header&text=Baraa%20Al-Haddad&fontSize=70&animation=fadeIn&fontColor=02569B&desc=Flutter%20Developer%20|%20UI/UX%20Designer&descSize=25&descAlignVertical=75](https://github.com/Baraaelh/Baraaelh/blob/main/Gemini_Generated_Image_p5sgjtp5sgjtp5sg.png)" alt="Header Animation" />
+  <img src="https://github.com/Baraaelh/Baraaelh/blob/main/Gemini_Generated_Image_p5sgjtp5sgjtp5sg.png" alt="Header Animation" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
