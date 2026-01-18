@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="رابط-لينكدإن">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/username">
+  <a href="https://github.com/Baraaelh">
     <img src="https://img.shields.io/github/followers/username?label=Follow&style=social"/>
   </a>
   <a href="رابط-بورتفوليو">
