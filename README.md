@@ -43,8 +43,6 @@ I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, us
 ---
 ## 🛠 Skills & Tools
 
-## 🛠 Skills & Tools
-
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
@@ -74,7 +72,16 @@ I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, us
 </table>
 
 ---
+## 🧠 Design Principles & Philosophy
+I believe that great design is invisible. My work is guided by these core principles to ensure high-quality user experiences:
 
+- 📐 **Visual Hierarchy:** Organizing elements to guide the user's eye toward the most important information first.
+- 🎨 **Color Theory & Typography:** Using color psychology and readable fonts to create a professional and accessible brand identity.
+- 📱 **Responsive & Adaptive Design:** Ensuring designs look and function perfectly across all screen sizes (Mobile, Tablet, Desktop).
+- ♿ **Accessibility (a11y):** Designing with inclusivity in mind, following WCAG guidelines for contrast and usability.
+- ⚡ **User-Centric Approach:** Every pixel is placed based on user needs, research, and data-driven decisions.
+
+---
 ---
 
  
