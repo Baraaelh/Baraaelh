@@ -99,10 +99,23 @@ I'm a **Mobile App Developer** specialized in **Flutter**, building high-quality
 
 <br>
 
-<h3>📝 Corporate Task Manager</h3>
-<p>Professional task management system for companies and individuals with offline support using <b>SQFLite</b>.</p>
+<h3>👟 Shoe Store App</h3>
+<p>A modern E-commerce mobile application for footwear with a clean UI and smooth user experience.</p>
 <p>
-  <a href="ضع_رابط_معاينة_مشروع_المهام_هنا" target="_blank">
+  <a href="https://www.figma.com/design/itS2fgm9Yn9O1lJNqlHN9m/shoe-store?node-id=0-1&p=f&t=X8tBhhOBbsgoROYU-0" target="_blank">
+    <img src="https://img.shields.io/badge/View_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design">
+  </a>
+</p>
+
+<br>
+
+<h3>🤝 Charity & Donation App</h3>
+<p>A humanitarian platform designed to facilitate donations and manage charitable projects efficiently.</p>
+<p align="center">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/10903112234720870329_0" width="400" alt="Charity App Mockup">
+</p>
+<p>
+  <a href="https://www.figma.com/design/MuRl8RRuoNpGDKdc3X0b07/Untitled?node-id=0-1&p=f&t=oGIUHgULFYJbovpC-0" target="_blank">
     <img src="https://img.shields.io/badge/View_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design">
   </a>
 </p>
