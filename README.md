@@ -23,20 +23,23 @@
  <a href="https://baraaelh.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="رابط_بروفايل_فيجما_الخاص_بك" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm a **Mobile App Developer** specialized in **Flutter**, building high-quality **Android & iOS** applications using a single codebase. I have a strong background in **UI/UX Design (Figma)** and **Front-End Development** (HTML, CSS, JS).
+I'm a passionate **UI/UX Designer** with a strong foundation in **Frontend Development**. I specialize in creating pixel-perfect, user-centric designs in **Figma** and bringing them to life through modern **Frontend technologies** and **Flutter** for cross-platform mobile applications.
+
+- 🎨 **Expertise:** Crafting seamless user experiences (UX) and high-fidelity interfaces (UI).
+- 💻 **Frontend:** Building responsive and interactive web interfaces using HTML, CSS, and JS.
+- 📱 **Mobile:** Developing high-performance Android & iOS apps using **Flutter**.
+
+---
 
 - 🎓 Computer Science student at **Al-Aqsa University**.
-- 💼 Freelance Developer at **Taqat Foundation**.
+- 💼 Freelance UI/UX Designer & Developer at **Taqat Foundation**.
 - 🛠 Field Trainee at **Code Map Foundation**.
-
 ---
 
 ## 🛠 Skills & Tools
