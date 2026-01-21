@@ -39,7 +39,7 @@ I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, us
 
 - 🎓 CS Student @ **Al-Aqsa University**.
 - 💼 Freelance Designer @ **Taqat Foundation**.
-- 
+- 🛠  Field Trainee at **Code Map Foundation**.
 ---
 ## 🛠 Skills & Tools
 <table>
