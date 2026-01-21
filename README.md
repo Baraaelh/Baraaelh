@@ -21,7 +21,10 @@
     <img src="https://img.shields.io/github/followers/Baraaelh?label=Follow&style=social"/>
   </a> -->
   <a href="رابط-بورتفوليو">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=flat&logo=google-chrome"/>
+    <img src="https://baraaelh.github.io/my-portfolio/"/>
+  </a>
+  <a href="رابط_بروفايل_فيجما_الخاص_بك" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   </a>
 </p>
 
