@@ -42,29 +42,37 @@ I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, us
 - 🛠  Field Trainee at **Code Map Foundation**.
 ---
 ## 🛠 Skills & Tools
+
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>Mobile</h3>
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+      <h3>🎨 UI/UX Design</h3>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <br>
+      <img src="https://img.shields.io/badge/User_Research-%234285F4.svg?style=flat-square" alt="UX Research" /> <br>
+      <img src="https://img.shields.io/badge/Wireframing-%2334A853.svg?style=flat-square" alt="Wireframing" /> <br>
+      <img src="https://img.shields.io/badge/Prototyping-%23FBBC05.svg?style=flat-square" alt="Prototyping" /> <br>
+      <img src="https://img.shields.io/badge/Adobe_PS-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
     </td>
+    
     <td align="center" width="33%">
-      <h3>Design & Web</h3>
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+      <h3>💻 Frontend Dev</h3>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <br>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <br>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JS" /> <br>
+      <img src="https://img.shields.io/badge/Responsive_Design-%23000000.svg?style=flat-square" alt="Responsive" />
     </td>
+    
     <td align="center" width="33%">
-      <h3>Database & State</h3>
-      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/GetX-%238A2BE2.svg?style=flat-square&logo=getx&logoColor=white" />
+      <h3>📱 Mobile & Tech</h3>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <br>
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <br>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /> <br>
+      <img src="https://img.shields.io/badge/GetX_State-%238A2BE2.svg?style=flat-square" alt="GetX" /> <br>
+      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
   </tr>
 </table>
 
----
 ---
 
  
