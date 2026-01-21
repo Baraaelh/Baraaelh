@@ -81,23 +81,25 @@ I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, us
 
 ## 💪 Skill Proficiency
 
+### 🎨 UI / UX Design (Primary Focus)
+![Figma](https://img.shields.io/badge/Figma-90%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![User Research](https://img.shields.io/badge/UX_Research-85%25-4285F4?style=for-the-badge)
+![Wireframing](https://img.shields.io/badge/Wireframing-88%25-34A853?style=for-the-badge)
+![Prototyping](https://img.shields.io/badge/Prototyping-85%25-FBBC05?style=for-the-badge)
+
+### 🌐 Frontend Development
+![HTML](https://img.shields.io/badge/HTML-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ### 📱 Flutter & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-90%25-000000?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-90%25-000000?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-80%25-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-80%25-000000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-000000?style=for-the-badge&logo=javascript&logoColor=white)
-
-### 🎨 UI / UX
-![Figma](https://img.shields.io/badge/Figma-77%25-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-85%25-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-85%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🗄 State & Database
-![GetX](https://img.shields.io/badge/GetX-78%25-000000?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-75%25-000000?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-70%25-000000?style=for-the-badge&logo=sqlite&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/Firebase-75%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-78%25-8A2BE2?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-70%25-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📂 Featured Projects
 
