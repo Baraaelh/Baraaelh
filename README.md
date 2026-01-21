@@ -29,19 +29,18 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **UI/UX Designer** with a strong foundation in **Frontend Development**. I specialize in creating pixel-perfect, user-centric designs in **Figma** and bringing them to life through modern **Frontend technologies** and **Flutter** for cross-platform mobile applications.
+I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, user-centric digital experiences. I bridge the gap between complex design problems and functional, high-performance applications.
 
-- 🎨 **Expertise:** Crafting seamless user experiences (UX) and high-fidelity interfaces (UI).
-- 💻 **Frontend:** Building responsive and interactive web interfaces using HTML, CSS, and JS.
-- 📱 **Mobile:** Developing high-performance Android & iOS apps using **Flutter**.
+- 🎨 **Design:** UI/UX Design (Figma) & Prototyping.
+- 💻 **Web:** Frontend Development (HTML, CSS, JS).
+- 📱 **Mobile:** Cross-platform apps with **Flutter**.
 
 ---
 
-- 🎓 Computer Science student at **Al-Aqsa University**.
-- 💼 Freelance UI/UX Designer & Developer at **Taqat Foundation**.
-- 🛠 Field Trainee at **Code Map Foundation**.
+- 🎓 CS Student @ **Al-Aqsa University**.
+- 💼 Freelance Designer @ **Taqat Foundation**.
+- 
 ---
-
 ## 🛠 Skills & Tools
 <table>
   <tr>
