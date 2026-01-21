@@ -20,8 +20,8 @@
   <!-- <a href="https://github.com/Baraaelh">
     <img src="https://img.shields.io/github/followers/Baraaelh?label=Follow&style=social"/>
   </a> -->
-  <a href="رابط-بورتفوليو">
-    <img src="https://baraaelh.github.io/my-portfolio/"/>
+ <a href="https://baraaelh.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="رابط_بروفايل_فيجما_الخاص_بك" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
