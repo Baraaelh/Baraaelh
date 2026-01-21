@@ -88,9 +88,9 @@ I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, us
 ![Prototyping](https://img.shields.io/badge/Prototyping-85%25-FBBC05?style=for-the-badge)
 
 ### 🌐 Frontend Development
-![HTML](https://img.shields.io/badge/HTML-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-88%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📱 Flutter & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-85%25-02569B?style=for-the-badge&logo=flutter&logoColor=white)
