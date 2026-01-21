@@ -87,14 +87,25 @@ I'm a **Mobile App Developer** specialized in **Flutter**, building high-quality
 ![SQLite](https://img.shields.io/badge/SQLite-70%25-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-
 ## 📂 Featured Projects
+
 <h3>💊 Pharmacy AI E-Commerce App</h3>
 <p>An online pharmacy platform with an integrated <b>AI Model</b> for medical consultations and <b>SQFLite</b> for local data handling.</p>
+<p>
+  <a href="https://www.figma.com/design/Ghv1qFhOrtJzOPbva77xev/pharmacyApp?node-id=0-1&p=f&t=GUHPGgY7esij9S16-0" target="_blank">
+    <img src="https://img.shields.io/badge/View_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design">
+  </a>
+</p>
+
+<br>
 
 <h3>📝 Corporate Task Manager</h3>
 <p>Professional task management system for companies and individuals with offline support using <b>SQFLite</b>.</p>
-
+<p>
+  <a href="ضع_رابط_معاينة_مشروع_المهام_هنا" target="_blank">
+    <img src="https://img.shields.io/badge/View_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design">
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
