@@ -14,7 +14,7 @@
 
  
 <p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+  <a href="http://www.linkedin.com/in/براء-الحداد-77766a398">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <!-- <a href="https://github.com/Baraaelh">
