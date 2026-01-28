@@ -140,6 +140,16 @@ I believe that great design is invisible. My work is guided by these core princi
     <img src="https://img.shields.io/badge/View_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design">
   </a>
 </p>
+
+<br>
+
+<h3>🍔 Food Portfolio (Smart Restaurant App)</h3>
+<p>A high-end dining application where financial concepts meet gastronomy. This project features a unique <b>"Food Portfolio"</b> system, managing everything from <b>Signature Dishes</b> (Equity) to <b>Family Bundles</b> (Mutual Funds).</p>
+<p>
+  <a href="https://www.figma.com/design/0h1o7qTtrcSh8TkppNFAUt/Untitled?node-id=0-1&p=f&t=OCFN8xHELIqiY5n1-0" target="_blank">
+    <img src="https://img.shields.io/badge/View_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design">
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
