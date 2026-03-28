@@ -29,12 +29,12 @@
 ---
 
 ## 🚀 About Me
-I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, user-centric digital experiences. I bridge the gap between complex design problems and functional, high-performance applications.
+I am a **Flutter Developer** UI/UX Designer & Frontend Developer passionate about building modern, high-performance mobile applications with clean and scalable UI. I focus on delivering smooth user experiences and visually appealing designs across different devices.
 
-- 🎨 **Design:** UI/UX Design (Figma) & Prototyping.
-- 💻 **Web:** Frontend Development (HTML, CSS, JS).
 - 📱 **Mobile:** Cross-platform apps with **Flutter**.
-
+- 💻 **Web:** Frontend Development (HTML, CSS, JS).
+- 🎨 **Design:** UI/UX Design (Figma) & Prototyping.
+I enjoy turning ideas into real mobile applications and continuously improving my skills in Flutter development and UI/UX design.
 ---
 
 - 🎓 CS Student @ **Al-Aqsa University**.
@@ -45,13 +45,13 @@ I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, us
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="33%">
-      <h3>🎨 UI/UX Design</h3>
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" /><br>
-      <img src="https://img.shields.io/badge/User_Research-%234285F4.svg?style=flat-square" alt="UX Research" /><br>
-      <img src="https://img.shields.io/badge/Wireframing-%2334A853.svg?style=flat-square" alt="Wireframing" /><br>
-      <img src="https://img.shields.io/badge/Prototyping-%23FBBC05.svg?style=flat-square" alt="Prototyping" /><br>
-      <img src="https://img.shields.io/badge/Adobe_PS-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+   <td align="center" valign="top" width="33%">
+      <h3>📱 Mobile & Tech</h3>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /><br>
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /><br>
+      <img src="https://img.shields.io/badge/GetX_State-%238A2BE2.svg?style=flat-square" alt="GetX" /><br>
+      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
     <td align="center" valign="top" width="33%">
       <h3>💻 Frontend Dev</h3>
@@ -60,13 +60,14 @@ I am a **UI/UX Designer** & **Frontend Developer** focused on crafting clean, us
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JS" /><br>
       <img src="https://img.shields.io/badge/Responsive_Design-%23000000.svg?style=flat-square" alt="Responsive" />
     </td>
-    <td align="center" valign="top" width="33%">
-      <h3>📱 Mobile & Tech</h3>
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /><br>
-      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br>
-      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /><br>
-      <img src="https://img.shields.io/badge/GetX_State-%238A2BE2.svg?style=flat-square" alt="GetX" /><br>
-      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+    
+     <td align="center" valign="top" width="33%">
+      <h3>🎨 UI/UX Design</h3>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" /><br>
+      <img src="https://img.shields.io/badge/User_Research-%234285F4.svg?style=flat-square" alt="UX Research" /><br>
+      <img src="https://img.shields.io/badge/Wireframing-%2334A853.svg?style=flat-square" alt="Wireframing" /><br>
+      <img src="https://img.shields.io/badge/Prototyping-%23FBBC05.svg?style=flat-square" alt="Prototyping" /><br>
+      <img src="https://img.shields.io/badge/Adobe_PS-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
     </td>
   </tr>
 </table>
@@ -87,6 +88,14 @@ I believe that great design is invisible. My work is guided by these core princi
  
 
 ## 💪 Skill Proficiency
+### 📱 Flutter & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-85%25-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-85%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🗄 State & Database
+![Firebase](https://img.shields.io/badge/Firebase-75%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-78%25-8A2BE2?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-70%25-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🎨 UI / UX Design (Primary Focus)
 ![Figma](https://img.shields.io/badge/Figma-90%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -99,14 +108,7 @@ I believe that great design is invisible. My work is guided by these core princi
 ![CSS](https://img.shields.io/badge/CSS-88%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📱 Flutter & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-85%25-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-85%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🗄 State & Database
-![Firebase](https://img.shields.io/badge/Firebase-75%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GetX](https://img.shields.io/badge/GetX-78%25-8A2BE2?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-70%25-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📂 Featured Projects
 
