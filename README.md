@@ -59,7 +59,6 @@ I enjoy turning ideas into real mobile applications and continuously improving m
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JS" /><br>
       <img src="https://img.shields.io/badge/Responsive_Design-%23000000.svg?style=flat-square" alt="Responsive" />
     </td>
-    
      <td align="center" valign="top" width="33%">
       <h3>🎨 UI/UX Design</h3>
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" /><br>
