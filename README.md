@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baraa Al haddad </h1>
-<h3 align="center">UI/UX Designer<br>
-  Frontend Developer • Flutter Developer </h3>
+<h3 align="center">Flutter Developer<br>
+  Frontend Developer • UI/UX Designer  </h3>
 
 
 <!-- <p align="center">
