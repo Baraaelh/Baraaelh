@@ -42,7 +42,6 @@ I enjoy turning ideas into real mobile applications and continuously improving m
 - 🛠  Field Trainee at **Code Map Foundation**.
 ---
 ## 🛠 Skills & Tools
-
 <table width="100%">
   <tr>
    <td align="center" valign="top" width="33%">
