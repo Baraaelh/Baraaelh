@@ -14,8 +14,8 @@
 
  
 <p align="center">
-  <a href="http://www.linkedin.com/in/براء-الحداد-77766a398">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+   <a href="http://www.linkedin.com/in/براء-الحداد-77766a398" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <!-- <a href="https://github.com/Baraaelh">
     <img src="https://img.shields.io/github/followers/Baraaelh?label=Follow&style=social"/>
