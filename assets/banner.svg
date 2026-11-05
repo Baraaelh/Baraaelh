@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1e4a"/><stop offset="1" stop-color="#1f6fe0"/></linearGradient>
+<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#7fd6ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+</defs>
+<style>
+.f{font-family:'Segoe UI',Arial,sans-serif}
+.orb{animation:fl 6s ease-in-out infinite}
+.o2{animation-duration:8s;animation-delay:-3s}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-18px)}}
+.in{opacity:0;animation:up 1s ease forwards}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.d1{animation-delay:.2s}.d2{animation-delay:.7s}
+.r{animation:ro 20s linear infinite;transform-origin:880px 150px}
+@keyframes ro{to{transform:rotate(360deg)}}
+.rl{opacity:0;animation:sh 12s infinite}
+.l2{animation-delay:3s}.l3{animation-delay:6s}.l4{animation-delay:9s}
+@keyframes sh{0%{opacity:0;transform:translateY(10px)}4%,22%{opacity:1;transform:none}26%,100%{opacity:0}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<rect width="1000" height="300" fill="url(#g)"/>
+<circle class="orb" cx="120" cy="60" r="90" fill="#ffffff" opacity=".07"/>
+<circle class="orb o2" cx="560" cy="270" r="120" fill="#7fd6ff" opacity=".10"/>
+<g class="r" opacity=".35" fill="none" stroke="#7fd6ff" stroke-width="2">
+<rect x="820" y="90" width="120" height="120" rx="18" transform="rotate(15 880 150)"/>
+<rect x="840" y="110" width="80" height="80" rx="12" transform="rotate(-15 880 150)"/></g>
+<text class="f in d1" x="60" y="115" font-size="54" font-weight="700" fill="url(#t)">Baraa Al-Haddad</text>
+<text class="f in d2" x="60" y="160" font-size="22" fill="#cfe6ff" letter-spacing="1">Flutter Developer  ·  Front-end  ·  UI/UX</text>
+<text class="f in d2" x="940" y="60" font-size="26" fill="#cfe6ff" text-anchor="end" direction="rtl">براء الحداد</text>
+<g class="f" font-size="24" fill="#ffffff">
+<text class="rl" x="60" y="225">📱 Building cross-platform apps with Flutter</text>
+<text class="rl l2" x="60" y="225">🎨 Turning Figma designs into real screens</text>
+<text class="rl l3" x="60" y="225">💻 Front-end · Responsive web pages</text>
+<text class="rl l4" x="60" y="225">🚀 Have an app idea? Let's build it.</text></g>
+</svg>
