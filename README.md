@@ -5,6 +5,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f6fe0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://baraaelh.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f6fe0?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://baraaelh.github.io/my-portfolio/](https://baraaelh.github.io/profile/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/براء-الحداد-77766a398)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/970597347588)
 [![Khamsat](https://img.shields.io/badge/Khamsat-f5a623?style=for-the-badge)](https://khamsat.com/user/baraaa_el_hadadd)
