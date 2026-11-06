@@ -77,8 +77,7 @@ Online pharmacy app with an AI assistant for medical consultations, local storag
 
 Wedding-services marketplace for Gaza: UI/UX design and system analysis.
 `Figma` `UI/UX` `SRS`
-[📖 Case study](https://baraaelh.github.io/profile/work/farah.html) ·    [⬇️ Download APK]
-(https://github.com/Baraaelh/Baraaelh/releases/download/farah/app-release.apk)
+[📖 Case study](https://baraaelh.github.io/profile/work/farah.html) [⬇️ Download APK](https://github.com/Baraaelh/Baraaelh/releases/download/farah/apprelease.apk)
 
  
 
