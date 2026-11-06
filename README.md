@@ -54,7 +54,7 @@ Smart platform for managing lost and found items: login, item lists with filters
 Multi-camera studio app built with Flutter.
 `Flutter` `Dart`
 
-[📖 Case study](https://baraaelh.github.io/my-portfolio/work/multicam.html) ·    [⬇️ Download APK](https://github.com/Baraaelh/Baraaelh/releases/download/Multicam/app-release.apk)
+[📖 Case study](https://baraaelh.github.io/profile/work/multicam.html) ·    [⬇️ Download APK](https://github.com/Baraaelh/Baraaelh/releases/download/Multicam/app-release.apk)
 
 </td>
 </tr>
@@ -67,7 +67,7 @@ Multi-camera studio app built with Flutter.
 Online pharmacy app with an AI assistant for medical consultations, local storage with SQLite, and a full Figma design system.
 `Flutter` `GetX` `Dio` `Figma`
 
-[📖 Case study](https://baraaelh.github.io/my-portfolio/work/pharmacylink.html) · [🎨 Figma design](https://www.figma.com/design/Ghv1qFhOrtJzOPbva77xev/pharmacyApp?node-id=0-1&p=f&t=GUHPGgY7esij9S16-0)
+[📖 Case study](https://baraaelh.github.io/profile/work/pharmacylink.html) · [🎨 Figma design](https://www.figma.com/design/Ghv1qFhOrtJzOPbva77xev/pharmacyApp?node-id=0-1&p=f&t=GUHPGgY7esij9S16-0)
 
 </td>
 <td width="50%" valign="top">
