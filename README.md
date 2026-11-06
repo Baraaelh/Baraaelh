@@ -53,7 +53,7 @@ Smart platform for managing lost and found items: login, item lists with filters
 Multi-camera studio app built with Flutter.
 `Flutter` `Dart`
 
-[📖 Case study](https://baraaelh.github.io/my-portfolio/work/multicam.html) · [⬇️ Download APK](https://github.com/Baraaelh/Baraaelh/releases)
+[📖 Case study](https://baraaelh.github.io/my-portfolio/work/multicam.html) ·    [⬇️ Download APK](https://github.com/Baraaelh/Baraaelh/releases/download/Multicam/app-release.apk)
 
 </td>
 </tr>
