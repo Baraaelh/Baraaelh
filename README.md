@@ -43,7 +43,7 @@ Computer Science graduate (Al-Aqsa University) with **4 years** of experience in
 Smart platform for managing lost and found items: login, item lists with filters, and map location.
 `Flutter` `Dart`
 
-[📖 Case study](https://baraaelh.github.io/my-portfolio/work/rajeali.html) · [⬇️ Download APK](https://github.com/Baraaelh/Baraaelh/releases)
+[📖 Case study](https://baraaelh.github.io/profile/work/rajeali.html) · [⬇️ Download APK](https://github.com/Baraaelh/Baraaelh/releases)
 
 </td>
 <td width="50%" valign="top">
