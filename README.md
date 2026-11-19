@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Baraa Al-Haddad - Flutter Developer" width="100%"/>
+<img src="assets/banner.svg" alt="Flutter" width="100%"/>
 
 <br>
 
@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/براء-الحداد-77766a398)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/970597347588)
 [![Khamsat](https://img.shields.io/badge/Khamsat-f5a623?style=for-the-badge)](https://khamsat.com/user/baraaa_el_hadadd)
+[![CV](https://img.shields.io/badge/Download%20CV-PDF-d9534f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Baraaelh/Baraaelh/raw/main/assets/Baraa-Al-Haddad-CV.pdf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/baraa_alhadadd)
 
 </div>
@@ -17,7 +18,7 @@
 
 ## 🚀 About Me
 
-Computer Science graduate (Al-Aqsa University) with **4 years** of experience in mobile development. I build **Flutter** apps with clean, responsive UI, and I work as both **developer and system analyst** on my projects, from the idea and the screens to the working app.
+Computer Science graduate (Al-Aqsa University) with **4 years** of experience in mobile development, and a **trainer** at Go Hub and Dakhl Academic Center. I build **Flutter** apps with clean, responsive UI, and I work as both **developer and system analyst** on my projects, from the idea and the screens to the working app.
 
 - 📱 **Mobile:** cross-platform apps with Flutter
 - 💻 **Web:** front-end development (HTML, CSS, JS)
@@ -93,6 +94,8 @@ Wedding-services marketplace for Gaza: UI/UX design and system analysis.
 <td>
 
 #### 🧥 Smart Elegance (الأناقة الذكي) — Offline POS for clothing stores
+[**→ Use case page**](https://baraaelh.github.io/profile/work/smart-elegance.html)
+
 <img src="assets/cashier-hero.jpg" alt="Smart Elegance cashier app" width="100%"/>
 
 A mobile cashier for clothing shops that keeps selling even when the internet drops. Every invoice is saved on the device instantly and syncs to the server on its own when the connection returns, so no sale is lost and no invoice is duplicated.
@@ -113,6 +116,8 @@ A mobile cashier for clothing shops that keeps selling even when the internet dr
 <td>
 
 #### 🦷 Dental Clinic App — patient booking + admin dashboard
+[**→ Use case page**](https://baraaelh.github.io/profile/work/dental-clinic.html)
+
 <img src="assets/dental-patient.jpg" alt="Dental clinic app: patient journey" width="100%"/>
 
 An Arabic (RTL) clinic app covering the whole patient journey: onboarding, login, home, choosing a doctor, doctor details, picking a day and time, payment, my appointments, appointment details, and rating. It also has notifications, profile, services, and an admin panel with dashboard, appointment management and statistics. Under the hood: double-booking prevention, role-based permissions and ratings.
@@ -137,6 +142,12 @@ An Arabic (RTL) clinic app covering the whole patient journey: onboarding, login
 
 ## 📄 Resume
 
+<div align="center">
+
+**[⬇️ Download my CV (PDF)](https://github.com/Baraaelh/Baraaelh/raw/main/assets/Baraa-Al-Haddad-CV.pdf)** · [View online](assets/Baraa-Al-Haddad-CV.pdf)
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -152,11 +163,14 @@ Jul 2026 – Oct 2026 (second training program). Led a team and delivered Flutte
 **Flutter Developer** · Taqaat Foundation, Gaza
 Oct 2025 – Jan 2026 (first training program). Built **Farah** and **PharmacyLink** during the Taqaat programs.
 
-**Trainer** · Go Hub and Dakhl Academic Center
-Delivered training sessions.
+**Trainer** · Go Hub · 2026
+Planned and delivered training sessions for learners.
+
+**Trainer** · Dakhl Academic Center · 2026
+Delivered training sessions and guided trainees through practical work.
 
 **Worked with international and local organizations**
-World Food Programme (WFP), Global Communities, and the local Al-Najd Foundation.
+Roles: Data Entry, Coordinator and Field Supervisor, with the World Food Programme (WFP), Global Communities, and the local Al-Najd Foundation.
 
 **Flutter Course Author & Instructor**
 Designing a 7-week, 15-lecture Flutter course for beginners: Dart, widgets, layout, navigation, Cubit state management, REST APIs, Firebase, Figma-to-Flutter, publishing and freelancing.
