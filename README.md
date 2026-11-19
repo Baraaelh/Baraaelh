@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/براء-الحداد-77766a398)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/970597347588)
 [![Khamsat](https://img.shields.io/badge/Khamsat-f5a623?style=for-the-badge)](https://khamsat.com/user/baraaa_el_hadadd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/baraa_alhadadd)
 
 </div>
 
@@ -85,6 +86,45 @@ Wedding-services marketplace for Gaza: UI/UX design and system analysis.
 </tr>
 </table>
 
+### ✨ New apps
+
+<table>
+<tr>
+<td>
+
+#### 🧥 Smart Elegance (الأناقة الذكي) — Offline POS for clothing stores
+<img src="assets/cashier-hero.jpg" alt="Smart Elegance cashier app" width="100%"/>
+
+A mobile cashier for clothing shops that keeps selling even when the internet drops. Every invoice is saved on the device instantly and syncs to the server on its own when the connection returns, so no sale is lost and no invoice is duplicated.
+
+- 🛒 **Sales:** fast search by name, code or SKU; stock shown per color and size; no overselling; invoice discount with a minimum-price guard; cash, e-wallet or bank transfer with automatic change.
+- 📦 **Online store orders:** new orders from the website arrive in the app, with accept / reject in one tap (even offline) and status filters. Orders screen is for owner and manager only.
+- 🔄 **Sync:** a status icon shows connection state and pending operations; rejected operations come back for retry; sign in once and open the app offline.
+- 🏪 Part of a complete system with a desktop store-management dashboard and the online store.
+
+`Flutter` `Dart` `Offline-first` `Sync`
+
+<img src="assets/cashier-screens.jpg" alt="Smart Elegance screens" width="100%"/>
+<img src="assets/cashier-orders.jpg" alt="Smart Elegance online orders" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🦷 Dental Clinic App — patient booking + admin dashboard
+<img src="assets/dental-patient.jpg" alt="Dental clinic app: patient journey" width="100%"/>
+
+An Arabic (RTL) clinic app covering the whole patient journey: onboarding, login, home, choosing a doctor, doctor details, picking a day and time, payment, my appointments, appointment details, and rating. It also has notifications, profile, services, and an admin panel with dashboard, appointment management and statistics. Under the hood: double-booking prevention, role-based permissions and ratings.
+
+`Flutter` `Dart` `Firebase` `RTL` `Admin panel`
+
+<img src="assets/dental-more.jpg" alt="Dental clinic app: details and admin" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ### 🎨 More UI designs
 
 | Project | Description | Design |
@@ -92,6 +132,65 @@ Wedding-services marketplace for Gaza: UI/UX design and system analysis.
 | 👟 Shoe Store App | Modern footwear e-commerce app with a clean UI | [Figma](https://www.figma.com/design/itS2fgm9Yn9O1lJNqlHN9m/shoe-store?node-id=0-1&p=f&t=X8tBhhOBbsgoROYU-0) |
 | 🤝 Charity & Donation App | Platform for donations and charitable projects | [Figma](https://www.figma.com/design/MuRl8RRuoNpGDKdc3X0b07/Untitled?node-id=0-1&p=f&t=oGIUHgULFYJbovpC-0) |
 | 🍔 Food Portfolio | Restaurant app with a "Food Portfolio" concept | [Figma](https://www.figma.com/design/0h1o7qTtrcSh8TkppNFAUt/Untitled?node-id=0-1&p=f&t=OCFN8xHELIqiY5n1-0) |
+
+---
+
+## 📄 Resume
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Experience
+
+**Freelance Flutter Developer & System Analyst** · 2022 – Present
+Upwork, Mostaql, Khamsat and Bright Gaza. I take apps from the idea and requirements (BRD / SRS) through UI/UX to a working Flutter app. 5-star client review on Khamsat.
+
+**Flutter Developer & Team Leader** · Taqaat Foundation, Gaza
+Jul 2026 – Oct 2026 (second training program). Led a team and delivered Flutter apps.
+
+**Flutter Developer** · Taqaat Foundation, Gaza
+Oct 2025 – Jan 2026 (first training program). Built **Farah** and **PharmacyLink** during the Taqaat programs.
+
+**Trainer** · Go Hub and Dakhl Academic Center
+Delivered training sessions.
+
+**Worked with international and local organizations**
+World Food Programme (WFP), Global Communities, and the local Al-Najd Foundation.
+
+**Flutter Course Author & Instructor**
+Designing a 7-week, 15-lecture Flutter course for beginners: Dart, widgets, layout, navigation, Cubit state management, REST APIs, Firebase, Figma-to-Flutter, publishing and freelancing.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+**B.Sc. in Computer Science**
+Faculty of Engineering and Information Technology, Al-Aqsa University
+
+### 📚 Courses
+
+- **Flutter course** · GSG · 2023
+
+### 🧰 Core skills
+
+- **Flutter & Dart:** clean architecture, Cubit / Bloc, GetX, Provider
+- **Backend & data:** Firebase, REST APIs (Dio), SQLite, offline-first sync
+- **Design:** Figma, UI/UX, wireframes, prototypes
+- **Analysis:** BRD, SRS, user stories, sprint planning
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, Photoshop
+
+### 🌍 Languages
+Arabic (native), English
+
+### 🔗 Find me
+[Khamsat](https://khamsat.com/user/baraaa_el_hadadd) · [Instagram](https://instagram.com/baraa_alhadadd) · [GitHub](https://github.com/Baraaelh)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -127,6 +226,23 @@ Wedding-services marketplace for Gaza: UI/UX design and system analysis.
 
 ---
 
+---
+
+<div align="center">
+
+### 🧑‍💻 Terminal
+
+<img src="assets/terminal.svg" alt="terminal" width="720"/>
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baraaelh/Baraaelh/output/github-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Baraaelh/Baraaelh/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
 <div align="center">
 
 ### 💬 Have an app idea? Let's build it.
@@ -134,3 +250,14 @@ Wedding-services marketplace for Gaza: UI/UX design and system analysis.
 [![WhatsApp](https://img.shields.io/badge/Message%20me%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/970597347588)
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="assets/dragons.svg" alt="dragons flying over the mountains" width="100%"/>
+
+</div>
+
+
+<img src="assets/wave.svg" alt="" width="100%"/>

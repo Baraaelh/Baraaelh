@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 423" width="900" height="423">
+<style>@keyframes l0{0%,3.64%{width:0;animation-timing-function:steps(16,end)}7.73%,96%{width:158px}100%{width:0}}#r0{animation:l0 22.0s infinite}
+@keyframes l1{0%,11.36%{width:0;animation-timing-function:steps(28,end)}13.64%,96%{width:277px}100%{width:0}}#r1{animation:l1 22.0s infinite}
+@keyframes l2{0%,19.09%{width:0;animation-timing-function:steps(21,end)}21.36%,96%{width:208px}100%{width:0}}#r2{animation:l2 22.0s infinite}
+@keyframes l3{0%,26.82%{width:0;animation-timing-function:steps(20,end)}29.09%,96%{width:198px}100%{width:0}}#r3{animation:l3 22.0s infinite}
+@keyframes l4{0%,34.55%{width:0;animation-timing-function:steps(13,end)}38.64%,96%{width:129px}100%{width:0}}#r4{animation:l4 22.0s infinite}
+@keyframes l5{0%,42.27%{width:0;animation-timing-function:steps(27,end)}44.55%,96%{width:267px}100%{width:0}}#r5{animation:l5 22.0s infinite}
+@keyframes l6{0%,50.00%{width:0;animation-timing-function:steps(21,end)}52.27%,96%{width:208px}100%{width:0}}#r6{animation:l6 22.0s infinite}
+@keyframes l7{0%,57.73%{width:0;animation-timing-function:steps(16,end)}61.82%,96%{width:158px}100%{width:0}}#r7{animation:l7 22.0s infinite}
+@keyframes l8{0%,65.45%{width:0;animation-timing-function:steps(54,end)}67.73%,96%{width:535px}100%{width:0}}#r8{animation:l8 22.0s infinite}
+@keyframes l9{0%,73.18%{width:0;animation-timing-function:steps(32,end)}77.27%,96%{width:317px}100%{width:0}}#r9{animation:l9 22.0s infinite}
+@keyframes l10{0%,80.91%{width:0;animation-timing-function:steps(23,end)}83.18%,96%{width:228px}100%{width:0}}#r10{animation:l10 22.0s infinite}
+@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}#cur{animation:bl 1s infinite}</style>
+<rect x="1" y="1" width="898" height="421" rx="12" fill="#0B1220" stroke="#1F2A44" stroke-width="2"/>
+<rect x="1" y="1" width="898" height="38" rx="12" fill="#151E33"/><rect x="1" y="26" width="898" height="13" fill="#151E33"/>
+<circle cx="26" cy="20" r="6" fill="#FF5F56"/><circle cx="48" cy="20" r="6" fill="#FFBD2E"/><circle cx="70" cy="20" r="6" fill="#27C93F"/>
+<text x="450" y="25" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="13" fill="#7F8CA8">baraa@gaza: ~/flutter</text>
+<clipPath id="cp0"><rect id="r0" x="40" y="78" width="0" height="24"/></clipPath><text x="40" y="96" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#54C5F8" clip-path="url(#cp0)" xml:space="preserve">$ flutter doctor</text>
+<clipPath id="cp1"><rect id="r1" x="40" y="105" width="0" height="24"/></clipPath><text x="40" y="123" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#8EE6A0" clip-path="url(#cp1)" xml:space="preserve">[✓] Flutter (Channel stable)</text>
+<clipPath id="cp2"><rect id="r2" x="40" y="132" width="0" height="24"/></clipPath><text x="40" y="150" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#8EE6A0" clip-path="url(#cp2)" xml:space="preserve">[✓] Android toolchain</text>
+<clipPath id="cp3"><rect id="r3" x="40" y="159" width="0" height="24"/></clipPath><text x="40" y="177" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#8EE6A0" clip-path="url(#cp3)" xml:space="preserve">[✓] Connected device</text>
+<clipPath id="cp4"><rect id="r4" x="40" y="186" width="0" height="24"/></clipPath><text x="40" y="204" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#54C5F8" clip-path="url(#cp4)" xml:space="preserve">$ flutter run</text>
+<clipPath id="cp5"><rect id="r5" x="40" y="213" width="0" height="24"/></clipPath><text x="40" y="231" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#8EE6A0" clip-path="url(#cp5)" xml:space="preserve">Launching lib/main.dart ...</text>
+<clipPath id="cp6"><rect id="r6" x="40" y="240" width="0" height="24"/></clipPath><text x="40" y="258" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#8EE6A0" clip-path="url(#cp6)" xml:space="preserve">✓ Built app-debug.apk</text>
+<clipPath id="cp7"><rect id="r7" x="40" y="267" width="0" height="24"/></clipPath><text x="40" y="285" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#54C5F8" clip-path="url(#cp7)" xml:space="preserve">$ cat skills.txt</text>
+<clipPath id="cp8"><rect id="r8" x="40" y="294" width="0" height="24"/></clipPath><text x="40" y="312" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#F5B83D" clip-path="url(#cp8)" xml:space="preserve">Flutter · Dart · Cubit · GetX · Firebase · Dio · Figma</text>
+<clipPath id="cp9"><rect id="r9" x="40" y="321" width="0" height="24"/></clipPath><text x="40" y="339" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#54C5F8" clip-path="url(#cp9)" xml:space="preserve">$ echo "Open for freelance work"</text>
+<clipPath id="cp10"><rect id="r10" x="40" y="348" width="0" height="24"/></clipPath><text x="40" y="366" font-family="Consolas,Menlo,Courier New,monospace" font-size="16.5" fill="#F5B83D" clip-path="url(#cp10)" xml:space="preserve">Open for freelance work</text>
+
+<rect id="cur" x="40" y="379" width="9" height="18" fill="#54C5F8"/>
+</svg>
